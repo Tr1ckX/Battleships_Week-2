@@ -14,3 +14,5 @@ Learning the Object Oriented Programming, creating Battleship game.
   - using the previously learnt skills and pronciples (TDD, Solid, DRY)
   - merging the finished code with the other group in the team
   - daily stand-up meetings, unerstanding the importance of communication, keep it AGILE
+
+You can find this week's challenges [here](https://github.com/Tr1ckX/inject-rewrite_Week-2) and [here](https://github.com/Tr1ckX/Takeaway_Week-2) if you are interested
